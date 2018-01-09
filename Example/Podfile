@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BFLogger_Tests' do
+  pod 'BFLogger', :path => '../'
+  
+  
+end

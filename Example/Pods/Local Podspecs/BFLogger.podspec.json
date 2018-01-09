@@ -1,0 +1,22 @@
+{
+  "name": "BFLogger",
+  "version": "0.1.0",
+  "summary": "A short description of BFLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/F9/BFLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "F9": "francesco.nove@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/F9/BFLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BFLogger/Classes/**/*"
+}

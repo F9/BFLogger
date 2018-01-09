@@ -1,0 +1,6 @@
+framework module Pods_BFLogger_Tests {
+  umbrella header "Pods-BFLogger_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

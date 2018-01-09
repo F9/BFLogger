@@ -1,0 +1,16 @@
+PODS:
+  - BFLogger (0.1.0)
+
+DEPENDENCIES:
+  - BFLogger (from `../`)
+
+EXTERNAL SOURCES:
+  BFLogger:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFLogger: 17d8c57df9b888c95f9ba10af560c8b4eb735788
+
+PODFILE CHECKSUM: a350016f0edf39c8205b82c0a408b59a7a7274d8
+
+COCOAPODS: 1.4.0.beta.1
